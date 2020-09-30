@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+using name space ::std;
 /**
  * main - causes an infinite loop
  * Return: 0
